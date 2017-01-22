@@ -19,3 +19,7 @@ directly into the corresponding pins on the arduino.
 
 The EDID in this sketch is for an eMac CRT but can theoretically be replaced 
 by any valid 128 byte EDID.
+
+The EDID data contained in the included array was provided by patriciooholegu on a forum
+https://www.tonymacx86.com/threads/i-have-decided-to-hack-emacs-crt-to-work-with-any-standard-motherboard.136358/page-4
+
